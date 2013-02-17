@@ -137,4 +137,17 @@ $language_codes = array(
     'yo' => 'Yoruba', 
     'zh' => 'Chinese', 
     'zu' => 'Zulu', 
+
+    // Added by Bob. 
+    'an' => 'Aragonese',
+    'bs' => 'Bosnian'
+    'gv' => 'Manx',
+    'he' => 'Hebrew',
+    'id' => 'Indonesian',
+    'kw' => 'Cornish',
+    'lg' => 'Ganda',
+    'nb' => 'Norwegian Bokmål',
+    'nn' => 'Norwegian Nynorsk',
+    'wa' => 'Walloon',
+    'yi' => 'Yiddish'
 );
