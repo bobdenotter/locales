@@ -1,7 +1,6 @@
 <?php 
 
 $country_codes = array(
-
     'AF' => "AFGHANISTAN", 
     'AL' => "ALBANIA", 
     'DZ' => "ALGERIA", 

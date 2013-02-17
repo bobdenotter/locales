@@ -111,7 +111,7 @@
     mk_MK    Macedonian           Macedonia, The Former Yugoslav Republic Of mk   MK  
     ms_MY    Malay                Malaysia                                   ms   MY  
     mt_MT    Maltese              Malta                                      mt   MT  
-    nb_NO    Norwegian BokmÃ¥l    Norway                                     nb   NO  
+    nb_NO    Norwegian Bokmål     Norway                                     nb   NO  
     nl_BE    Dutch                Belgium                                    nl   BE  
     nl_NL    Dutch                Netherlands                                nl   NL  
     nn_NO    Norwegian Nynorsk    Norway                                     nn   NO  
