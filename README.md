@@ -18,3 +18,5 @@ References:
  - http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
  - http://blog.xoundboy.com/?p=235
  - http://lh.2xlibre.net/locales/
+ - http://www.ethnologue.com/codes/LanguageIndex.tab / http://www.ethnologue.com/codes/CountryCodes.tab / http://www.ethnologue.com/codes/LanguageCodes.tab
+
