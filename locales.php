@@ -437,12 +437,18 @@ foreach($locales as $locale)
 
 //echo "<pre>";
 //print_r($locale_data);
-//echo "</pre>";
+// echo "</pre>";
 
 // Output them, in a fancy ascii table:
 foreach($locale_data as $locale) {
-    if ($locale['encoding'] != "UTF-8") {
+    if ( !in_array($locale['encoding'], array("UTF-8", "utf8"))) {
         continue;
     }
-    printf("    %-8s %-14s %-30s %-4s %-4s\n", $locale['locale'], $locale['language'], $locale['country'], $locale['country_code'], $locale['language_code'] );
+    printf("    %-8s %-14s %-30s %-4s %-4s\n", 
+        $locale['locale'], 
+        $locale['language'], 
+        $locale['country'], 
+        $locale['country_code'], 
+        $locale['language_code'] 
+    );
 }

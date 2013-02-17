@@ -51,3 +51,23 @@
     zh_CN    Chinese        China                          CN   zh  
     zh_HK    Chinese        Hong Kong                      HK   zh  
     zh_TW    Chinese        Taiwan, Province Of China      TW   zh  
+    en_AG    English        Antigua And Barbuda            AG   en  
+    en_AU    English        Australia                      AU   en  
+    en_BW    English        Botswana                       BW   en  
+    en_CA    English        Canada                         CA   en  
+    en_DK    English        Denmark                        DK   en  
+    en_GB    English        United Kingdom                 GB   en  
+    en_HK    English        Hong Kong                      HK   en  
+    en_IE    English        Ireland                        IE   en  
+    en_IN    English        India                          IN   en  
+    en_NG    English        Nigeria                        NG   en  
+    en_NZ    English        New Zealand                    NZ   en  
+    en_PH    English        Philippines                    PH   en  
+    en_SG    English        Singapore                      SG   en  
+    en_US    English        United States                  US   en  
+    en_ZA    English        South Africa                   ZA   en  
+    en_ZM    English        Zambia                         ZM   en  
+    en_ZW    English        Zimbabwe                       ZW   en  
+    nl_NL    Dutch          Netherlands                    NL   nl  
+    zh_CN    Chinese        China                          CN   zh  
+    zh_SG    Chinese        Singapore                      SG   zh  
