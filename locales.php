@@ -44,6 +44,7 @@ foreach($locales as $locale)
 // echo "</pre>";
 
 // Output them, in a fancy ascii table:
+echo "    Locale   Language             Country  \n";
 foreach($locale_data as $locale) {
     if ( !in_array($locale['encoding'], array("UTF-8", "utf8"))) {
         continue;

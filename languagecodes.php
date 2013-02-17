@@ -164,7 +164,7 @@ $language_codes = array(
     'li' => 'Limburgan',
     'iu' => 'Inuktitut',
     'nds' => 'Low German',
-    'nr' => 'South Ndebele'
+    'nr' => 'South Ndebele',
     'nso' => 'Pedi',
     'or' => 'Oriya',
     'os' => 'Ossetian',
@@ -174,6 +174,11 @@ $language_codes = array(
     'sid' => 'Sidamo',
     'tig' => 'Tigre',
     'ug' => 'Uighur',
-    've' => 'Venda'
+    've' => 'Venda',
+    'dv' => 'Dhivehi',
+    'hne' => 'Chhattisgarhi',
+    'ht' => 'Haitian',
+    'shs' => 'Shuswap',
+
 
 );
