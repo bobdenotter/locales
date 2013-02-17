@@ -444,7 +444,7 @@ foreach($locale_data as $locale) {
     if ( !in_array($locale['encoding'], array("UTF-8", "utf8"))) {
         continue;
     }
-    printf("    %-8s %-14s %-30s %-4s %-4s\n", 
+    printf("    %-8s %-20s %-42s %-4s %-4s\n", 
         $locale['locale'], 
         $locale['language'], 
         $locale['country'], 
