@@ -1,4 +1,8 @@
+<<<<<<< HEAD
     Locale   Country              Language                                   
+=======
+    Locale   Language             Country                                                          
+>>>>>>> -
     aa_DJ    Afar                 Djibouti                                   DJ   aa  
     af_ZA    Afrikaans            South Africa                               ZA   af  
     am_ET    Amharic              Ethiopia                                   ET   am  
