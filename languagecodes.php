@@ -140,7 +140,7 @@ $language_codes = array(
 
     // Added by Bob. 
     'an' => 'Aragonese',
-    'bs' => 'Bosnian'
+    'bs' => 'Bosnian',
     'gv' => 'Manx',
     'he' => 'Hebrew',
     'id' => 'Indonesian',
