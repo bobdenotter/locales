@@ -1,7 +1,7 @@
 Locales, languages and countries
 ================================
 
-This is a simple script to get a list of the locales and countrycodes available for functions like PHP's strftime()
+This is a simple script to get a list of the locales and countrycodes available for functions like PHP's `strftime()`.
 I've been looking for a convenient list of the common ones, but I couldn't find one. So, I made one myself.
 
 **The current list is here: [List of Locales, languages and countrycodes](https://github.com/bobdenotter/locales/blob/master/locales_list.txt).**
