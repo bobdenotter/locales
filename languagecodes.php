@@ -149,5 +149,6 @@ $language_codes = array(
     'nb' => 'Norwegian Bokmål',
     'nn' => 'Norwegian Nynorsk',
     'wa' => 'Walloon',
-    'yi' => 'Yiddish'
+    'yi' => 'Yiddish',
+    'hsb' => 'Upper Sorbian'
 );
